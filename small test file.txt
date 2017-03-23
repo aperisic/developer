@@ -1,6 +1,1 @@
-Sample file of the original
-Second sample file
-Third sample file
-first line
-second line 
-third line
+1
